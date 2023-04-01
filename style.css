@@ -1,0 +1,21 @@
+body{
+    background-color: aliceblue;
+}
+.form-control{
+    width: 70%;
+}
+#nameInput{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#ContentInput{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.list-group-item{
+    margin-top:10px ; width: 75%;
+}
+h1{
+    margin-top: 70px;
+    text-align: center;
+}
